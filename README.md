@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...☺
 - ⚡ Fun fact: ...
 -->
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Admol's github stats](https://github-readme-stats.vercel.app/api?username=admol&show_icons=true&theme=dracula)
