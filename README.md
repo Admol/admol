@@ -22,9 +22,6 @@
                                                       佛祖保佑         永无BUG
 
 
-![](https://github.com/admol/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/admol/github-stats/blob/master/generated/languages.svg)
-
 <!--
 
 Hi there 👋
