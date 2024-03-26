@@ -74,11 +74,11 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-🔭 I’m currently working on various development projects, focusing mainly on JAVA with a secondary focus on front-end development.
-🌱 I’m always learning and exploring new technologies to enhance my full-stack development skills.
-👯 I’m open to collaborating on projects that involve system design, web development, and open-source contributions.
-🤔 I’m looking for help with expanding my knowledge in modern front-end frameworks and tools.
-📫 How to reach me: You can contact me via email at wang@jingling.im.
+- 🔭 I’m currently working on various development projects, focusing mainly on JAVA with a secondary focus on front-end development.
+- 🌱 I’m always learning and exploring new technologies to enhance my full-stack development skills.
+- 👯 I’m open to collaborating on projects that involve system design, web development, and open-source contributions.
+- 🤔 I’m looking for help with expanding my knowledge in modern front-end frameworks and tools.
+- 📫 How to reach me: You can contact me via email at wang@jingling.im.
 
 
 ## Languages and tools 🛠 
