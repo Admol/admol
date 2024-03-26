@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Admol's github stats](https://github-readme-stats.vercel.app/api?username=admol&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=admol&theme=travelers-theme&exclude_days=Sun%2CMon)](https://github.com/Admol)
 -->
 
 
@@ -103,4 +104,4 @@ Here are some ideas to get you started:
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![](https://github-readme-stats.vercel.app/api?username=admol&show_icons=true&theme=dracula)
-[![GitHub Streak](https://streak-stats.demolab.com?user=admol&theme=travelers-theme&exclude_days=Sun%2CMon)](https://github.com/Admol)
+
