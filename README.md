@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 
 ![Admol's github stats](https://github-readme-stats.vercel.app/api?username=admol&show_icons=true&theme=dracula)
 [![GitHub Streak](https://streak-stats.demolab.com?user=admol&theme=travelers-theme&exclude_days=Sun%2CMon)](https://github.com/Admol)
+
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![](https://github-readme-stats.vercel.app/api?username=admol&show_icons=true&theme=dracula)
+
 -->
 
 
@@ -100,8 +106,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> 
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge"/> 
 </p>
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![](https://github-readme-stats.vercel.app/api?username=admol&show_icons=true&theme=dracula)
 
